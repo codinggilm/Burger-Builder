@@ -14,6 +14,7 @@ A React application built using Redux for state management and a back-end set up
 
 ## Setup/Installation
 To view the app, click https://burger-builder-aae3b.firebaseapp.com/ or copy the link to your browser and load it.
+You do not need a valid email address to use.
 
 ## Technologies Used
 
